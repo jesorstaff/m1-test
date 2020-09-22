@@ -1,4 +1,4 @@
 # m1-test.github.io
 ### Ссылка на сайт
  
-https://github.com/jesorstaff/m1-test.github.io/
+https://jesorstaff.github.io/m1-test.github.io/
