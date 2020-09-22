@@ -116,7 +116,7 @@ header {
 /* hero */
 
 .hero-background {
-    background: url("../images/bg.jpg") no-repeat;
+    background: url("../images/bg.jpg") center no-repeat;
     z-index: 0;
     position: relative;
 }
@@ -210,7 +210,6 @@ header {
 
 @media (max-width: 960px) {
     .hero-background {
-        background-position: center;
         overflow: hidden;
     }
 }
@@ -845,37 +844,3 @@ header {
         margin-bottom: 5px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
